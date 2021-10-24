@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Johannes Sattler
+- 👀 I’m interested in web development and coding.
+- 🌱 I’m currently learning JavaScript, React, HTML, CSS and much more.
+- 📫 Contact me here johannes@jattler.de
